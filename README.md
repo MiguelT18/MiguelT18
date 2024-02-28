@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miguel Teran and I'm a Fullstack Developer from Bolivia</h2>
+<h2 align="left">Hi 👋! My name is Miguel Teran and I'm Fullstack Developer from Bolivia</h2>
 
 ###
 
